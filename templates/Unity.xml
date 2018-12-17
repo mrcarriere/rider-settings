@@ -1,0 +1,24 @@
+<templateSet group="Unity">
+  <template name="configfield" value="/// &lt;summary&gt;&#10;/// $DESCRIPTION$&#10;/// &lt;/summary&gt;&#10;public $TYPE$ $NAME$&#10;{&#10;    get { return $NAME$; }&#10;    set { $NAME$ = value; }&#10;}&#10;&#10;[SerializeField]&#10;private $TYPE$ _$NAME$;" description="A field in a configuration file" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="&quot;type&quot;" defaultValue="type" alwaysStopAt="true" />
+    <variable name="NAME" expression="&quot;name&quot;" defaultValue="name" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="&quot;description&quot;" defaultValue="Description" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="MARKDOWN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Python" value="false" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
