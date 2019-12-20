@@ -1,4 +1,16 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
+    <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="LINE_SPACING" value="0.9" />
@@ -25,9 +37,9 @@
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <filter name="Needs Work">
-      <pattern index="1" />
-      <pattern index="0" />
       <pattern index="2" />
+      <pattern index="0" />
+      <pattern index="1" />
     </filter>
   </component>
 </application>
