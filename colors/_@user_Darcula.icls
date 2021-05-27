@@ -1,0 +1,79 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-04-17T12:16:09</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2017.3.1.0.0</property>
+    <property name="modified">2018-06-25T19:26:32</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="WHITESPACES" value="383838" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="5b6063" />
+      </value>
+    </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_COLOR" value="ab3333" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="6ec6be" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+        <option name="EFFECT_COLOR" value="97773f" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="6cc02e" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="2569c0" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
